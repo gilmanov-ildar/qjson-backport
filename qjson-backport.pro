@@ -8,6 +8,7 @@ QT       -= gui
 
 TARGET = qjson-backport
 TEMPLATE = lib
+CONFIG += static
 
 DEFINES += QJSONBACKPORT_LIBRARY
 
